@@ -1,1 +1,1 @@
-You will have to edit you Prob offset's.
+You will have to edit your Prob offset's.
